@@ -1,6 +1,5 @@
 package com.gliolio.common.utils;
 
-
 import com.gliolio.common.constant.RegExpStr;
 
 public class StringUtilsEx extends StringUtils {
